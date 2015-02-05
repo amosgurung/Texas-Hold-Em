@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1417999117 source:c:\users\amos\downloads\read\csci 3560 probability and statistics\texas hold-em\main.cpp
+	"texasholdem.h"
+	<iostream>
+
+1417998705 c:\users\amos\downloads\read\csci 3560 probability and statistics\texas hold-em\texasholdem.h
+	<list>
+	"deck.h"
+
+1417999699 source:c:\users\amos\downloads\read\csci 3560 probability and statistics\texas hold-em\texasholdem.cpp
+	"texasholdem.h"
+	<iostream>
+	<string>
+	<ctime>
+	<iomanip>
+
+1418000961 source:c:\users\amos\downloads\read\csci 3560 probability and statistics\texas hold-em\deck.cpp
+	"deck.h"
+	<vector>
+	<iostream>
+	<algorithm>
+
+1417932914 c:\users\amos\downloads\read\csci 3560 probability and statistics\texas hold-em\deck.h
+	<vector>
+	<string>
+	"card.h"
+
+1417933020 source:c:\users\amos\downloads\read\csci 3560 probability and statistics\texas hold-em\card.cpp
+	"card.h"
+
+1417998617 c:\users\amos\downloads\read\csci 3560 probability and statistics\texas hold-em\card.h
+	<iostream>
+
+1417999102 source:c:\users\amos\downloads\read\csci 3560 probability and statistics\texas hold-em\gurung.cpp
+	"texasholdem.h"
+	<iostream>
+
